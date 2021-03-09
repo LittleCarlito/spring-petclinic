@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/meier/Desktop/SE 441/SMEIER_HW5/spring-petclinic","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
